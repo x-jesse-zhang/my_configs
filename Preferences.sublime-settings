@@ -1,0 +1,11 @@
+{
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"ensure_newline_at_eof_on_save": true,
+	"highlight_modified_tabs": true,
+	"close_windows_when_empty": false,
+	"always_show_minimap_viewport": true
+}
