@@ -1,0 +1,19 @@
+{
+    "window.zoomLevel": 0,
+    "files.autoSave": "onFocusChange",
+    "editor.fontSize": 13,
+    "editor.smoothScrolling": true,
+    "editor.minimap.showSlider": "always",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.dragAndDrop": false,
+    "window.title": "${activeEditorLong}",
+    "python.pythonPath": "python3",
+    "python.linting.pylintEnabled": true,
+    "terminal.integrated.shell.osx": "/usr/local/bin/fish",
+    "editor.scrollBeyondLastLine": false,
+    "workbench.colorTheme": "One Dark Pro",
+    "extensions.ignoreRecommendations": false,
+    "files.associations": {
+        "*.ext": "python"
+    }
+}
