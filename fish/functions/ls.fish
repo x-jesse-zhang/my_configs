@@ -1,3 +1,3 @@
 function ls
-	command ls -alh $argv
+	command ls -alh $argv | lolcat
 end
