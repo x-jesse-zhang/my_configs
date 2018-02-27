@@ -1,2 +1,2 @@
 magicpython
-sublime keybindings
+sublime text keymap
