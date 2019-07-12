@@ -6,13 +6,15 @@
     "editor.minimap.showSlider": "always",
     "editor.multiCursorModifier": "ctrlCmd",
     "editor.dragAndDrop": false,
-    "window.title": "${activeEditorLong}",
+    "window.title": "${dirty}${activeEditorLong}${separator}${folderPath}",
     "python.pythonPath": "python3",
     "python.linting.pylintEnabled": true,
     "editor.scrollBeyondLastLine": false,
     "workbench.colorTheme": "One Dark Pro",
     "extensions.ignoreRecommendations": false,
     "files.associations": {
-        "*.ext": "python"
+        "*.ext": "python",
+        "Sconstruct": "python",
+        "*.part": "python"
     }
 }
